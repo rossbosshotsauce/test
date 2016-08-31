@@ -1,7 +1,7 @@
 # Interests
-*Systems Integration
-*
+* Systems Integration
+* 
 
 # Skills
-*CFD (to be learned)
-*Airplane Aerodynamics
+* CFD (to be learned)
+* Airplane Aerodynamics
