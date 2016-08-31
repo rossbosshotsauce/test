@@ -3,5 +3,6 @@
 * 
 
 # Skills
-* CFD (to be learned)
+* CFD
+ * To be learned
 * Airplane Aerodynamics
